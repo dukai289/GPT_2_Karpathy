@@ -14,3 +14,4 @@
 
 ## 其它
 + [《动手学深度学习》李沐](https://zh-v2.d2l.ai/)
++ [【大语言模型基础】60 行 Numpy 教你实现 GPT- 原理与代码详解](https://xie.infoq.cn/article/4cfcf2a8f810cd9a6b245e2dd)
