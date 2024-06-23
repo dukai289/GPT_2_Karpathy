@@ -3,9 +3,13 @@
 # 参考资料
 ## Karpathy
 + [Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20](https://github.com/karpathy/llm.c/discussions/481)
-+ [karpathy/llm.c](https://github.com/karpathy/llm.c)
-+ [视频教程(youtube)](https://www.youtube.com/watch?v=l8pRSuU81PU)
-+ [视频教程(bilibili)](https://www.bilibili.com/video/BV12s421u7sZ/)
++ [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt)
++ reproduce GPT-2
+    + [视频教程(youtube)](https://www.youtube.com/watch?v=l8pRSuU81PU)
+    + [视频教程(bilibili)](https://www.bilibili.com/video/BV12s421u7sZ/)
++ Intro to Large Language Models
+    + [视频教程(youtube)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+    + [视频教程(bilibili)](https://www.bilibili.com/video/BV1x8gQe6EEN/?vd_source=b411d1c97274b9c651c6443318813a61)
 
 
 ## 个人
